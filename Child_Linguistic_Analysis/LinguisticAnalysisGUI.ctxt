@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=LinguisticAnalysisGUI
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ Driver\ class\ for\ GUI.\ Displays\ graphical\ interactive\n\ interface\ for\ the\ Child\ Linguistic\ Analysis\ program.\n\n\ @param\ \ args\ \ \ \ \ \ \ \ \ takes\ user-inputted\ command-line\ args;\ not\ used\ here\n
+numComments=2

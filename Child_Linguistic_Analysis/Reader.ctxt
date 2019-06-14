@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Reader
+comment1.params=filepath\ numRows
+comment1.target=Reader(java.lang.String,\ int)
+comment1.text=\n\ Constructor\ for\ Reader\ class.\ Given\ a\ path\ to\ where\ child\ linguistic\ data\ is\ being\n\ stored\ on\ your\ local\ machine,\ as\ well\ as\ a\ number\ of\ rows\ desired,\ will\n\ initialize\ a\ Vector<Row>\ containing\ a\ datapoint\ for\ each\ word\ in\ the\ dataset.\n\n\ @param\ filepath\ -\ A\ filepath\ representing\ where\ the\ csv\ data\ file\ \n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ containing\ child\ linguistic\ data\ is\ kept.\ This\ can\ be\ either\ a\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ relative\ or\ absolute\ filepath\ -\ e.g.\ "linguistics.csv"\ or\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ "Users/angie/Desktop/finalProject/linguistics.csv".\n\ @param\ numRows\ -\ \ The\ number\ of\ rows\ desired.\ Note\ that\ if\ you\ specify\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ more\ rows\ of\ data\ than\ exist\ in\ the\ dataset,\ you\ will\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ get\ the\ entire\ dataset.\n
+comment2.params=row\ field
+comment2.target=int\ getIntField(fastcsv.CsvRow,\ java.lang.String)
+comment3.params=row\ field
+comment3.target=double\ getDoubleField(fastcsv.CsvRow,\ java.lang.String)
+comment4.params=
+comment4.target=java.util.Vector\ getDataset()
+numComments=5

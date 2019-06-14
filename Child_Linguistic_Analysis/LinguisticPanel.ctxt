@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=LinguisticPanel
+comment1.params=
+comment1.target=LinguisticPanel()
+comment1.text=\n\ Constructor.\ Initializes\ 3\ sub-panels\ that\ make\ up\n\ this\ panel.\ Also\ designs\ this\ panel.\n
+comment2.params=
+comment2.target=javax.swing.JPanel\ makeNorthPanel()
+comment2.text=\n\ This\ panel\ displays\ text\ that\ tells\ the\ user\ what\ the\n\ name\ of\ the\ program\ is.\n\n\ @return\ \ \ \ \ \ a\ panel\ that\ contains\ JLabel\ and\ JPanel\ objects\n
+comment3.params=
+comment3.target=javax.swing.JPanel\ makeSouthPanel()
+comment3.text=\n\ This\ panel\ displays\ text\ that\ tells\ the\ user\ the\ purpose\n\ of\ the\ program.\ It\ also\ displays\ the\ text\ asking\ the\ user\n\ what\ the\ age\ of\ their\ child\ is.\n\n\ @return\ \ \ \ \ \ a\ panel\ that\ contains\ JComboBox\ and\ JPanel\ objects\n
+comment4.params=
+comment4.target=javax.swing.JPanel\ makeCenterPanel()
+comment4.text=\n\ This\ panel\ displays\ a\ paragraph\ that\ tells\ the\ user\ the\ purpose\n\ of\ the\ program.\n\n\ @return\ \ \ \ \ \ a\ panel\ that\ contains\ JLabel\ and\ JPanel\ objects\n
+numComments=5

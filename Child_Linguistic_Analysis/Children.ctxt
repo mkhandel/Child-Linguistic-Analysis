@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Children
+comment1.params=filename\ numRows
+comment1.target=Children(java.lang.String,\ int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Children.\n
+comment2.params=age
+comment2.target=void\ find15Words(int)
+comment2.text=\n\ find15Words(int\ age)\ takes\ in\ an\ age\ in\ months\ and\ returns\ the\ words\ at\ that\ age\ that\ have\ a\ \n\ frequency\ (percent\ of\ children\ able\ to\ say\ the\ word\ at\ that\ age)\ closest\ to\ 0.5\ (the\ middle).\n\ \n\ @param\ int\ age\ -\ takes\ an\ integer\ of\ what\ age\ we\ are\ looking\ for.\ Age\ in\ months.\n
+comment3.params=
+comment3.target=java.lang.String[]\ getWords15Array()
+comment3.text=\n\ getWords15Array()\ getter\ method\ for\ the\ array\ holding\ the\ words\ collected\ for\ that\ specific\ age\n\ \n\ @return\ String[]\ -\ returns\ the\ instance\ variable\ array\ of\ the\ 15\ collected\ words\n
+comment4.params=
+comment4.target=double[]\ getFreq15Array()
+comment4.text=\n\ getFreq15Array()\ getter\ method\ for\ array\ holding\ the\ frequencies\ that\ corresponds\ to\ the\ 15\ \n\ collected\ words.\ \n\ \n\ @return\ double[]\ -\ returns\ the\ instance\ variable\ array\ of\ the\ 15\ collected\ frequencies\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\n\u00A0\u00A0\u00A0\u00A0\u00A0*\ toString()\ formats\ how\ instances\ of\ this\ class\ are\ formated\ when\ printed\n\u00A0\u00A0\u00A0\u00A0\u00A0*\ \n\u00A0\u00A0\u00A0\u00A0\u00A0*\ @return\ String\ -\ returns\ a\ String\ of\ how\ this\ class\ will\ be\ printed\n\u00A0\u00A0\u00A0\u00A0\u00A0
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+comment6.text=\n\u00A0\u00A0\u00A0\u00A0\u00A0*\ main(String[]\ args)\ main\ method\ for\ testing\ \n\u00A0\u00A0\u00A0\u00A0\u00A0*\ \n\u00A0\u00A0\u00A0\u00A0\u00A0*\ @param\ String[]\ args\ -\ command-line\ comments\n\u00A0\u00A0\u00A0\u00A0\u00A0
+numComments=7

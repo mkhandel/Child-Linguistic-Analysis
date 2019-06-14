@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Row
+comment1.params=num_item_id\ definition\ type\ category\ month16\ month17\ month18\ month19\ month20\ month21\ month22\ month23\ month24\ month25\ month26\ month27\ month28\ month29\ month30
+comment1.target=Row(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ double,\ double,\ double,\ double,\ double,\ double,\ double,\ double,\ double,\ double,\ double,\ double,\ double,\ double)
+comment1.text=\n\ Constructor\ for\ Row\ class.\ \n\ Each\ Row\ represents\ data\ on\ the\ city-year\ level.\n
+comment2.params=
+comment2.target=int\ getNumItem()
+comment2.text=\n\ Getter\ method\ for\ name\ variable.\n\ @return\ name\ data\ for\ this\ Row\ instance.\n
+comment3.params=
+comment3.target=java.lang.String\ getDefinition()
+comment3.text=\n\ Getter\ method\ for\ state\ variable.\n\ @return\ state\ data\ for\ this\ Row\ instance.\n
+comment4.params=
+comment4.target=java.lang.String\ getType()
+comment4.text=\n\ Getter\ method\ for\ year\ variable.\n\ @return\ year\ data\ for\ this\ Row\ instance.\n
+comment5.params=
+comment5.target=java.lang.String\ getCategory()
+comment5.text=\n\ Getter\ method\ for\ year\ variable.\n\ @return\ year\ data\ for\ this\ Row\ instance.\n
+comment6.params=variableName
+comment6.target=double\ getDataValue(java.lang.String)
+comment6.text=\n\ Getter\ method\ for\ all\ numerical\ values\ associated\ with\ this\ row.\n\ @return\ numerical\ value\ associated\ with\ this\ row.\n
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment7.text=\n\ Returns\ a\ String\ representing\ all\ the\ data\ in\ this\ Row\ instance.\n\ \ \ \ \ @return\ a\ String\ representation\ of\ this\ Row.\n
+numComments=8

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=LinguisticExpert
+comment1.params=
+comment1.target=LinguisticExpert()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ LinguisticExpert.\n\ Initializes\ the\ three\ expert\ trees\ that\ vary\ based\ on\ \n\ the\ child's\ skillset.\n
+comment2.params=age\ higher
+comment2.target=java.lang.String\ diagnose(int,\ boolean)
+comment2.text=\n\ Follows\ the\ appropriate\ skillset\ tree\ based\ on\ user\ responses.\ \n\ \n\ @param\ age\ \ \ \ \ \ \ how\ many\ months\ old\ the\ child\ is\n\ @param\ higher\ \ \ \ whether\ or\ not\ the\ child's\ average\ is\ higher\ than\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ the\ national\ average.\ Input\ true\ if\ higher.\n\ \n\ @return\ \ \ \ \ \ \ \ \ \ the\ advice\ we\ give\ the\ user\ based\ on\ their\ responses\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ to\ the\ questions\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment3.text=\n\ Follows\ the\ appropriate\ skillset\ tree\ based\ on\ user\ responses.\ \n\ \n\ @param\ age\ \ \ \ \ \ \ how\ many\ months\ old\ the\ child\ is\n\ @param\ higher\ \ \ \ whether\ or\ not\ the\ child's\ average\ is\ higher\ than\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ the\ national\ average.\ Input\ true\ if\ higher.\n\ \n\ @return\ \ \ \ \ \ \ \ \ \ the\ advice\ we\ give\ the\ user\ based\ on\ their\ responses\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ to\ the\ questions\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \n
+numComments=4

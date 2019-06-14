@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Averages
+comment1.params=childData\ nationalData
+comment1.target=Averages(Child,\ Children)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Averages.\n\ Gets\ frequencies\ from\ Child\ and\ Children\ classes\n\ that\ are\ necessary\ to\ find\ the\ average\ frequency\ of\ \n\ speakability\ for\ the\ pre-determined\ 15\ words.\n\ \n\ @param\ david\ \ \ \ \ \ \ child\ object\n
+comment2.params=
+comment2.target=double\ computeChildrenAvg()
+comment2.text=\n\ Takes\ the\ average\ of\ the\ frequencies\ stored\ in\ the\ \n\ childrenAverages\ collection.\n\n\ @return\ \ \ \ national\ average\ of\ frequency\ for\ the\ 15\ sample\ words\n
+comment3.params=
+comment3.target=double\ computeChildAvg()
+comment3.text=\n\ Takes\ the\ average\ of\ the\ frequencies\ stored\ in\ the\ \n\ childAverages\ array.\n\n\ @return\ \ \ \ child's\ average\ frequency\ for\ the\ 15\ sample\ words\n
+numComments=4

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Child
+comment0.text=\n\ \n\ Project\:\ I'm\ a\ Big\ Kid\ Now\ (Avery\ Kim,\ Carmen\ Chan,\ Mehek\ Khandelwal)\n\ @author\ (Carmen\ Chan)\n\ @version\ (a\ version\ number\ or\ a\ date)\n\ \n\ Write\ a\ description\ of\ class\ Child\ here.\n\ \n\ This\ class\ gets\ information\ from\ the\ user.\ In\ the\ method\ \n\ createArrayOfFreq(age)\ uses\ the\ words\ \n\ found\ in\ Children\ for\ a\ given\ age\ and\ populates\ an\ array\ with\ whether\ \n\ the\ specific\ child\ can\ say\ that\ word.\ It\ uses\ a\ Scanner\ to\ ask\ and\ \n\ save\ an\ age\ of\ the\ child.\ Using\ this\ it\ creates\ a\ Children\ object\ that\n\ has\ an\ array\ of\ the\ words\ closest\ to\ the\ average\ (0.5)\ of\ children\ \n\ being\ able\ to\ say\ it.\ It\ will\ then\ ask\ the\ parents\ whether\ their\ child\ \n\ can\ say\ it\ and\ save\ their\ answers\ in\ an\ array\ that\ is\ an\ instance\ \n\ variable\ of\ the\ class.\ We\ have\ a\ getter\ method\ to\ get\ a\ hold\ of\ this\ \n\ variable\ later\ from\ different\ classes.\ \n
+comment1.params=a
+comment1.target=Child(int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Child\n\ @param\ -\ int\ a\n
+comment2.params=
+comment2.target=int\ getAge()
+comment2.text=\n\ getAge()\ -\ getter\ method\ for\ user's\ age\ input\n\ @return\ -\ int\ age\n
+comment3.params=age
+comment3.target=void\ createArrayOfFreq(int)
+comment3.text=\n\ wordQueueToFreqArray(Scanner\ scan)\ \n\ @param\ -\ a\ Scanner\ \n\ @return\ -\ return\ an\ array\ of\ doubles\ representing\ whether\ a\ child\n\ can\ say\ a\ word\ or\ not.\ If\ they\ can\ say\ it,\ a\ 1\ is\ stored,\ if\ not,\ a\ 0\n\ is\ stored.\ We\ use\ an\ averages\ class\ to\ get\ the\ average\ of\ these\ values\n\ to\ determine\ any\ given\ child's\ average\ which\ we\ will\ compare\ to\ Children's\n\ average.\n
+comment4.params=
+comment4.target=double[]\ getChildFreq()
+comment4.text=\n\ getChildFreq()\ -\ getter\ method\ for\ the\ array\ of\ child\ frequencies\n\ @return\ -\ the\ childFreq\ array\ instance\ variable\n
+numComments=5
